@@ -1,0 +1,51 @@
+
+Body {
+
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+Header {
+
+    background: #ebebeb;
+    width: 495px;
+
+}
+
+Nav  {
+    background: #ebebeb;
+    width: 495px;
+}
+
+Section {
+    background: #ebebeb;
+    width: 495px;
+}
+
+Aside   {
+    background: #ebebeb;
+    width: 495px;
+}
+
+Footer {
+
+    background: #ebebeb;
+    width: 495px;
+}
+
+Article  {
+    background: #777;
+    width: 495px;
+    color: #ebebeb;
+
+}
+
+h1.p  {
+    background: #ebebeb;
+    color: #777;
+    width: 495;
+}
+
